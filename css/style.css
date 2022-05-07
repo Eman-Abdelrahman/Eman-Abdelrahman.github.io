@@ -209,7 +209,7 @@ a:focus {
 .slider_section .detail-box .heading_box {
   padding-left: 15px;
   position: relative;
-/*   text-align: center; */
+  text-align: center;
 }
 
 .slider_section .detail-box .heading_box::before {
@@ -217,9 +217,9 @@ a:focus {
   position: absolute;
   top: -12%;
   left: 0;
-  width: 495px;
-  height: 130%;
-/*   border: 1px solid #fed11f; */
+/*   width: 495px;
+  height: 130%; */
+  border: 1px solid #fed11f;
 }
 
 .slider_section .detail-box h2 h3 {
