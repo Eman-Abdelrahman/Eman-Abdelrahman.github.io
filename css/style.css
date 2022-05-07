@@ -219,7 +219,7 @@ a:focus {
   left: 0;
   width: 495px;
   height: 130%;
-  border: 1px solid #fed11f;
+/*   border: 1px solid #fed11f; */
 }
 
 .slider_section .detail-box h2 h3 {
