@@ -271,9 +271,11 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  width: 100%;
+/*   width: 100%; */
   position: relative;
   z-index: 2;
+  width: 495px;
+  height: 130%;
 }
 
 .slider_section .img-box::before {
