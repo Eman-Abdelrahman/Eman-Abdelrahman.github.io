@@ -221,7 +221,7 @@ a:focus {
   border: 1px solid #fed11f;
 }
 
-.slider_section .detail-box h2 {
+.slider_section .detail-box h2 h3 {
   font-weight: bold;
   text-transform: uppercase;
   color: #ffffff;
